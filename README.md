@@ -26,7 +26,7 @@ Just C++, mathematics, and ASCII characters.
 
 <div align="center">
 
-<img src="donut.png">
+<img src="https://i.pinimg.com/736x/34/ac/2c/34ac2c4ede74aab531ad399e7603ec19.jpg">
 
 </div>
 
