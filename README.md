@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍩 3D Rotating Donut in C++
+# 3D Rotating Donut in C++
 
 ### A 3D donut animation made with C++ and pure mathematics.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎥 About
+## About
 
 This project creates a **3D rotating donut directly in the terminal** using C++.
 
@@ -42,20 +42,20 @@ Just C++, mathematics, and ASCII characters.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🌀 Smooth 3D rotation
-* 🧮 Uses mathematical equations to create the donut
-* 💡 Simple lighting effect
-* 👁️ Perspective projection
-* 📦 Z-buffer for depth
-* 🖥️ Runs directly in the terminal
-* ⚡ Lightweight and simple
-* 🚫 No graphics libraries required
+*  Smooth 3D rotation
+*  Uses mathematical equations to create the donut
+*  Simple lighting effect
+*  Perspective projection
+*  Z-buffer for depth
+*  Runs directly in the terminal
+*  Lightweight and simple
+*  No graphics libraries required
 
 ---
 
-## 🧠 How Does It Work?
+## How Does It Work?
 
 The program creates a **3D torus (donut)** using two angles:
 
@@ -114,7 +114,7 @@ Darker areas use lighter characters, while brighter areas use denser characters.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Darker areas use lighter characters, while brighter areas use denser characters.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -159,11 +159,11 @@ g++ main.cpp -o donut -std=c++17
 ./donut
 ```
 
-You should now see the donut rotating in your terminal. 🍩
+You should now see the donut rotating in your terminal. 
 
 ---
 
-## 🎨 Customize It
+## Customize It
 
 You can easily experiment with the project.
 
@@ -195,7 +195,7 @@ Try your own characters to create a different look.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This small project helped me understand how mathematics can be used to create something visual.
 
@@ -213,7 +213,7 @@ I learned about:
 
 ---
 
-## 💡 Why I Made This
+## Why I Made This
 
 I wanted to see how far I could go with **just C++ and mathematics**.
 
@@ -223,7 +223,7 @@ This project is a simple example of how **math can turn into graphics**.
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 Some things I want to try next:
 
@@ -237,13 +237,13 @@ Some things I want to try next:
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project interesting, consider giving it a ⭐ on GitHub!
 
 <div align="center">
 
-### 🍩 C++ + Mathematics = 3D Graphics
+### C++ + Mathematics = 3D Graphics
 
 **Made with curiosity and a lot of trigonometry.**
 
